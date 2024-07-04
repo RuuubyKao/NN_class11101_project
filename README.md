@@ -1,1 +1,2 @@
-# NN_class1101_project
+# Neural Network Assignment
+#Convolution Neural Network, CNN
