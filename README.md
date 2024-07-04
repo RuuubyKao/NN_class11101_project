@@ -40,14 +40,14 @@ Screenshots of the CNN network architecture used in the training.
 
 This section includes figures showing the training loss and training accuracy for each epoch.
 
-- **Training Loss:** ![Training Loss](path/to/fig1.png)
-- **Training Accuracy:** ![Training Accuracy](path/to/fig2.png)
+- **Training Loss and Training Accuracy:** ![Training Loss](path/to/fig1.png)
 
 ### III. Prediction Results
 
 This section includes the testing loss, testing accuracy, and the confusion matrix.
 
-- **Testing Loss and Testing Accuracy:** ![Testing Loss and Accuracy](path/to/testing_loss_accuracy.png)
+- **Testing Loss:0.0046
+- **Testing Accuracy:0.9711
 - **Confusion Matrix (Array):** ![Confusion Matrix Array](path/to/confusion_matrix_array.png)
 - **Confusion Matrix (Heat Map):** ![Confusion Matrix Heat Map](path/to/confusion_matrix_heatmap.png)
 
