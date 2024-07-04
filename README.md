@@ -1,8 +1,5 @@
 # Neural Network Assignment #2
 
-### Author: KAO CHIA-YU
-### Student ID: R76111214
-
 ## Convolutional Neural Network (CNN)
 
 ### Objective
@@ -40,7 +37,7 @@ Screenshots of the CNN network architecture used in the training.
 
 This section includes figures showing the training loss and training accuracy for each epoch.
 
-- **Training Loss and Training Accuracy:** ![Training Loss](path/to/fig1.png)
+- **Training Loss and Training Accuracy:** ![Training Loss](path/to/CNN_mnist1.png)
 
 ### III. Prediction Results
 
